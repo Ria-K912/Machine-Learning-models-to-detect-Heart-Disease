@@ -8,15 +8,15 @@
   <li><b>Random Forest Model:</b> A Random Forest classifier was implemented, with hyperparameter tuning performed through cross-validation. The model demonstrated high accuracy and was compared against classical SVM models.</li>
   <li><b>Comparative Analysis:</b> The performance of Quantum Machine Learning Algorithms (Callable Kernel QSVM and VQC) was compared against classical machine learning models on the Cleveland Dataset. While quantum algorithms showed a slight reduction in accuracy, VQC exhibited lesser training time than its classical counterparts.</li>
   <li><b>Data Aggregation:</b> Multiple heart disease datasets from different sources were combined into a single dataset, enhancing the diversity and volume of data for analysis.</li>
-  <li><b>Machine Learning Pipeline:</b> The project encompassed a comprehensive machine learning pipeline from data loading, preprocessing, model training, evaluation, to comparison of classical and quantum algorithms, emphasizing the potential of quantum-enhanced approaches in healthcare analytics.</li>
+  <li><b>Machine Learning Pipeline:</b> The project encompassed a comprehensive machine learning pipeline from data loading, preprocessing, model training, and evaluation, to the comparison of classical and quantum algorithms, emphasizing the potential of quantum-enhanced approaches in healthcare analytics.</li>
 </ul>
 
 <h2>Libraries and Technologies Used:</h2>
 <ul>
-  <li>Pandas and Numpy for data manipulation</li>
-  <li>Matplotlib and Seaborn for data visualization</li>
-  <li>Scikit-learn for machine learning models and metrics</li>
-  <li>Qiskit for implementing quantum algorithms</li>
+  <li><code>Pandas </code> and <code> Numpy </code> for data manipulation</li>
+  <li><code>Matplotlib</code> and <code>Seaborn</code> for data visualization</li>
+  <li><code>Scikit-learn</code> for machine learning models and metrics</li>
+  <li><code>Qiskit</code> for implementing quantum algorithms</li>
 </ul>
 
 <h2>Key Findings:</h2>
